@@ -1,0 +1,92 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+
+}
+
+h1 {
+    font-size: 40px;
+    color: white;
+
+}
+
+.who {
+    padding-left: 25%;
+    padding-top: 5%;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+}
+
+.need {
+    padding-top: 0%;
+    padding-left: 35%;
+    margin-top: 0px;
+}
+
+
+p {
+    color: white;
+    padding-left: 25%;
+}
+
+#us {
+    padding-left: 30%;
+}
+
+.help {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+
+    border: 2px solid gray;
+    padding: 0px 25px 0px 25px;
+    background-size: cover;
+    margin-left: 122px;
+    margin-right: 122px;
+    height: 30em;
+    width: 68em;
+    border-radius: 5px;
+
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    padding: 10px 25px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-left: 420px;
+}
+
+.poor {
+    background-color: gray;
+}
+
+.donate {
+    background-color: white;
+    margin-left: 124px;
+    margin-top: -34px;
+    margin-right: 72px;
+}
+
+#font {
+    color: black;
+    font-size: 500;
+    font-weight: 900;
+    text-align: center;
+    margin-left: 32px;
+    padding-top: 40px;
+    margin-bottom: 0px;
+}
+
+#as {
+    color: black;
+    margin-left: 100px;
+    margin-bottom: 0px;
+}
+
+#dont {
+    color: black;
+    margin-top: 0px;
+    margin-left: 200px;
+}
