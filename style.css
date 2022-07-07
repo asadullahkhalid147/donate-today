@@ -51,7 +51,7 @@ p {
 
 .link-button {
     text-decoration: none;
-    background-image: linear-gradient(tomato, orange);
+    background-image: linear-gradient(rgb(179, 52, 30), rgb(212, 61, 61));
     padding: 10px 25px;
     color: white;
     font-weight: 700;
@@ -126,15 +126,14 @@ p {
 }
 
 .two {
-    background-color: rgb(226, 226, 226);
-    border: 2px solid red;
+    background-color: rgb(233, 151, 151);
+    border: 2px solid rgb(247, 58, 58);
     border-radius: 5px;
     padding-left: 15px;
     padding-right: 15px;
     padding-bottom: 25px;
     padding-top: 25px;
-    box-shadow: 5px 10px 20px red inset;
-    color: red;
+
 }
 
 
@@ -153,7 +152,7 @@ hr {
 
 .link-butt {
     text-decoration: none;
-    background-image: linear-gradient(tomato, orange);
+    background-image: linear-gradient(rgb(199, 71, 48), rgb(218, 42, 42));
     padding: 10px 25px;
     color: white;
     font-weight: 700;
@@ -195,5 +194,74 @@ hr {
 #world {
     color: black;
     margin-left: 60px;
-    margin-top: 0px;
+    margin-top: -20px;
+}
+
+.kobi {
+    background-color: white;
+
+    padding-left: 110px;
+    margin-left: 120px;
+    margin-right: 112px;
+    margin-top: -17px;
+    display: flex;
+
+}
+
+
+
+
+
+#first {
+    color: black;
+    margin-left: -75px;
+
+
+}
+
+#sec {
+    color: black;
+    margin-left: -70px;
+}
+
+#thir {
+    color: black;
+    margin-left: -70px;
+}
+
+.food {
+    text-align: left;
+    background-color: rgb(229, 229, 240);
+    width: 30%;
+    margin-top: 50px;
+
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px 10px #888888;
+    margin-right: 10%;
+    margin-left: -5%;
+
+}
+
+.shelter {
+
+    background-color: rgb(242, 204, 204);
+    width: 30%;
+    margin-top: 50px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px 10px #888888;
+    margin-left: -5%;
+    margin-right: 5%;
+}
+
+.frame {
+
+    background-color: rgb(238, 220, 187);
+    width: 30%;
+    margin-top: 50px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px 10px #888888;
+    margin-right: 5%;
 }
