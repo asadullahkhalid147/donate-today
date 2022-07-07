@@ -265,3 +265,30 @@ hr {
     box-shadow: 5px 10px 8px 10px #888888;
     margin-right: 5%;
 }
+
+.extra {
+    background-color: white;
+    margin-top: -33px;
+    margin-left: 120px;
+    margin-right: 8.27%;
+
+}
+
+#get {
+    color: black;
+    margin-left: 40%;
+    padding-top: -35px;
+
+}
+
+#our {
+    color: black;
+    margin-left: 250px;
+    margin-top: 0%
+}
+
+#sad {
+    color: black;
+    margin-left: 140px;
+
+}
